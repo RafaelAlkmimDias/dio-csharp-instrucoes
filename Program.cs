@@ -182,8 +182,22 @@ namespace Instrucoes
             {
                 Console.WriteLine($"a[{i}] = {a[i]}");
             }
+
+            int[] b = new int[] {1, 2, 3};
+
+            for (int i = 0; i < b.Length; i++)
+            {
+                Console.WriteLine($"b[{i}] = {b[i]}");
+            }
+
+            int[] c = {4, 5, 6};
+
+            for (int i = 0; i < c.Length; i++)
+            {
+                Console.WriteLine($"c[{i}] = {c[i]}");
+            }
         }
 
-        
+
     }
 }
