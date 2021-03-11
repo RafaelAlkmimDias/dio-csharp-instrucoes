@@ -1,0 +1,1 @@
+# projeto mostrado no curso de dotnet do digital innovation one com código únicamente didatico para demostrar exemplos de instruções em c#
